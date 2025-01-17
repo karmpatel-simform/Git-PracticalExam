@@ -2,10 +2,10 @@
 
 
 # Git Exercise:
-    * Create a new repository with a template
-    * Initialize git-flow  
-    * Create a feature branch for project setup with the proper Zoho task ID (example: TP2-T1299_Project_Setup)
-    * Create a sub-branch from the project setup branch and perform squash, reset, rebase and cherrypick ​​​​​​​.
+ * Create a new repository with a template
+ * Initialize git-flow  
+ * Create a feature branch for project setup with the proper Zoho task ID (example: TP2-T1299_Project_Setup)
+ * Create a sub-branch from the project setup branch and perform squash, reset, rebase and cherrypick ​​​​​​​.
     
 ### Practice below mentioned scenario and decide which one to use from rebase, cherry-pick, reset or squash and how,
 
